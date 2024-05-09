@@ -5,11 +5,9 @@ name: Publish Package to npmjs
 
 on:
   push:
-    # branches: [ main ]
+    branches: [ main ]
     # paths:
-    #   - 'src/'
-    tags:
-      - '**'
+    #   - 'src/' 
 
 jobs:
   build:
