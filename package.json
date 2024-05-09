@@ -11,12 +11,7 @@
   "peerDependencies": {
     "@strapi/strapi": "^4.0.0"
   },
-  "dependencies": {},
-  "author": {
-    "name": "wfzong",
-    "email": "wfz123@126.com",
-    "url": "https://juejin.cn/user/61228379824296"
-  },
+  "dependencies": {}, 
   "engines": {
     "node": ">=14.19.1",
     "npm": ">=6.0.0"
