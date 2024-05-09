@@ -28,5 +28,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/wfzong/strapi-wechat-miniprogram-auth.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
