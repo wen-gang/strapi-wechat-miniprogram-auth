@@ -1,6 +1,6 @@
 {
   "name": "strapi-miniprogram-auth-weilanwl",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Helps you to easily create WeChat MiniProgram authentication available for your user.",
   "strapi": {
     "name": "strapi-miniprogram-auth-weilanwl",
@@ -11,7 +11,7 @@
   "peerDependencies": {
     "@strapi/strapi": "^4.0.0"
   },
-  "dependencies": {}, 
+  "dependencies": {},
   "engines": {
     "node": ">=14.19.1",
     "npm": ">=6.0.0"
